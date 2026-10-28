@@ -1,0 +1,7 @@
+Resumo das compras:
+Compra 1: Valor: R$ 200.00, Idade: 30, Quantidade: 10 itens, Cupom: FIDELIDADE10, Valor final: R$ 153.90
+
+Quantidade de compras: 1
+Total bruto: R$ 200.00
+Total com desconto: R$ 153.90
+Total de desconto concedido: R$ 46.10
